@@ -7,10 +7,7 @@ using namespace std;
 int i=0;
 
 int main(){
-	int* j=new int(1);
-	int* k=0x7ffff7789eb0;
-	cout<<i<<" "<<*j<<endl;
-	cout<<"addr"<<"i:"<<&i;
-	cout<<" "<<"j:"<<j<<endl;
+	cout<<"hellow";
+
 }
 
